@@ -36,7 +36,6 @@
   <ol>
     <li><strong>Clone the repository:</strong>
       <pre><code>https://github.com/GovindSharma07/Blog-Explorer</code></pre>
-      
     </li>
     <li><strong>Navigate to the project directory:</strong>
       <pre><code>cd Blog-Explorer</code></pre>
